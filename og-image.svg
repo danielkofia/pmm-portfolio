@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d2420;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Accent circle -->
+  <circle cx="1050" cy="100" r="280" fill="#16a394" opacity="0.06"/>
+  <circle cx="150" cy="550" r="200" fill="#16a394" opacity="0.04"/>
+  <!-- Top accent bar -->
+  <rect x="80" y="80" width="60" height="4" fill="#16a394" rx="2"/>
+  <!-- Name -->
+  <text x="80" y="240" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="white">Daniel Kofi Agyei</text>
+  <!-- Title -->
+  <text x="80" y="305" font-family="Arial, sans-serif" font-size="28" fill="#9ca3af">Product Marketer · Healthcare &amp; SaaS · Ghana</text>
+  <!-- Divider -->
+  <rect x="80" y="340" width="500" height="1" fill="#2d3748"/>
+  <!-- Case studies -->
+  <text x="80" y="390" font-family="Arial, sans-serif" font-size="22" fill="#16a394">✦  Retenza — Healthtech GTM Case Study</text>
+  <text x="80" y="428" font-family="Arial, sans-serif" font-size="22" fill="#16a394">✦  MEDvidi — SaaS Positioning Audit</text>
+  <text x="80" y="466" font-family="Arial, sans-serif" font-size="22" fill="#16a394">✦  5 years pharmacy · Real operator validation</text>
+  <!-- Bottom tagline -->
+  <text x="80" y="545" font-family="Arial, sans-serif" font-size="20" fill="#4a5568">danielkofiagyei.vercel.app</text>
+  <!-- Right side accent -->
+  <rect x="1120" y="0" width="4" height="630" fill="#16a394" opacity="0.4"/>
+</svg>
